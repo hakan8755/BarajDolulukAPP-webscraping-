@@ -22,4 +22,4 @@ rüzgarhızı.py: Buharlaşma oranlarını etkileyebilecek rüzgar hızını top
 
 
 Veri Toplama
-Selenium aracı kullanılarak toplanmaktadır. Bu veriler deniz basıncı, çiy noktası, rüzgar hızı, yağış miktarı ve tarihsel su tüketim verilerini içermektedir.
+ Selenium aracı kullanılarak toplanmaktadır. Bu veriler deniz basıncı, çiy noktası, rüzgar hızı, yağış miktarı ve tarihsel su tüketim verilerini içermektedir.
